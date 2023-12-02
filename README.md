@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nullshaderion/nullshaderion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me:
+### 🔭 I’m currently working on developing Project "Sakura"
+### 🌱 I’m currently learning Python, CSS, HTML and sh
+### 💬 Ask me about Menhera
+### ⚡ Fun fact, I'm mentally unstable
 
-Here are some ideas to get you started:
+🌐 Socials:
+https://youtube.com/@MovieEditz836?feature=shared
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
+https://camo.githubusercontent.com/18d07ed577dd8860b7d3000e4e17d5ac7a042c02cfdd7fcec19873e5340d25b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465
+https://camo.githubusercontent.com/2c97187994c91ce5a2401b2cdf2ee49c604f1002f70b2c1a02093748fbb34f39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304166746572253230456666656374732d3939393946462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230416674657225323045666665637473266c6f676f436f6c6f723d7768697465
