@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diablo</h1>
 <h3 align="center">A passionate game developer on roblox studio and a cyber security enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1290/0*s2ivt9cecdqsXvts.gif">
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1290/0*s2ivt9cecdqsXvts.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullshaderion&label=Profile%20views&color=0e75b6&style=flat" alt="nullshaderion" /> </p>
 
