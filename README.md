@@ -9,13 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Lua, Python and maybe HTML**
+- 🌱 I’m currently learning **Python, im not the best but im on my way to machine learning**
 
 - 💬 Ask me about **Psychology, and d3oxing**
 
-- 📫 Reach me on discord **lorddiablothethird**
+- 📫 Reach me on discord **lorddiablothefourth**
 
-- 📄 Know about my experiences [https://nullshaderion.github.io/diablo/diablo/diablo.xyz/index.html](https://nullshaderion.github.io/diablo/diablo/diablo.xyz/index.html)
 
 - ⚡ Fun fact **I'm wanted in 50 states**
 
