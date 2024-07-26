@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python, im not the best but im on my way to machine learning**
 
-- 💬 Ask me about **Psychology, and d3oxing**
+- 💬 Ask me about **Psychology, OSINT, LUA, and LINUX**
 
-- 📫 Reach me on discord **lorddiablothefourth**
+- 📫 Reach me on discord **eldiablothefourth**
 
 
 - ⚡ Fun fact **I'm wanted in 50 states**
