@@ -15,7 +15,6 @@
 
 - 📫 Reach me on discord **eldiablothefourth**
 
-
 - ⚡ Fun fact **I'm wanted in 50 states**
 
 <h3 align="left">Connect with me:</h3>
