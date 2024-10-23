@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **if you're a furry or a rainbow dude pls dni**
+- 🌱 **if you're a furry or a rainbow dude pls dni**
 
 - 💬 **im a linux addict**
 
