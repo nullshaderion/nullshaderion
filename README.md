@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diablo</h1>
-<h3 align="center">A passionate game developer on roblox studio and im learning coding ig</h3>
+<h3 align="center">some game dev on rblx studio and a linux user</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1290/0*s2ivt9cecdqsXvts.gif">
 
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, im not the best but im on my way to machine learning**
+- 🌱 I’m currently learning **if you're a furry or a rainbow dude pls dni**
 
-- 💬 Ask me about **Psychology, OSINT, LUA, and LINUX**
+- 💬 **im a linux addict**
 
-- 📫 Reach me on discord **eldiablothefourth**
+- 📫 Reach me on discord **eldiablothefifth**
 
-- ⚡ Fun fact **I'm wanted in 50 states**
+- ⚡ Fun fact **dont ever talk to me if you're asking for help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
