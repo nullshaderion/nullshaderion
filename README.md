@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diablo</h1>
+<h1 align="center">Hi 👋, I'm Tsukeru__</h1>
 <h3 align="center">some game dev and a linux user</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1290/0*s2ivt9cecdqsXvts.gif">
 
