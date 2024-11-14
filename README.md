@@ -11,10 +11,11 @@
 - 💯 **I know python and lua/luau**
 
 - 💬 **im a linux addict**
-- 
+
 - ✌️ **im very much into japaneese stuff lol**
-- 
+
 - 📫 Reach me on discord **tsukeru__**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@movieeditz836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@movieeditz836" height="30" width="40" /></a>
