@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは、イム・ツケル</h1>
-<h3 align="center">some game dev and a linux user</h3>
+<h3 align="center">一部のゲーム開発者とLinuxユーザー</h3>
 <img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b90acfa130e90e678cf51941d196448f?rik=vROLmixwqb4u%2bA&pid=ImgRaw&r=0">
 
 
