@@ -17,10 +17,7 @@
 
 - ✌️ **im very much into japaneese stuff lol**
 
-- 📫 Reach me on discord **tsukeru__**
-  
-
-
+- 📫 Reach me on discord **tsukeru__** 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullshaderion&show_icons=true&locale=en&layout=compact" alt="nullshaderion" /></p>
 
