@@ -13,6 +13,8 @@
 
 - 💬 **im a linux addict, hence why i like to customize my DE's**
 
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/25SRIrKFyRQAAAAC/tokyo-japan.gif">
+
 - ✌️ **im very much into japaneese stuff lol**
 
 - 📫 Reach me on discord **tsukeru__**
