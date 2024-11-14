@@ -8,12 +8,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullshaderion" alt="nullshaderion" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 💯 **I know python and lua/luau**
 
 - 💬 **im a linux addict, hence why i like to customize my DE's**
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/25SRIrKFyRQAAAAC/tokyo-japan.gif">
-- ✌️ **im very much into japaneese stuff **
+
+- ✌️ **im very much into japaneese stuff**
 
 - 📫 Reach me on discord **tsukeru__** 
 
