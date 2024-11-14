@@ -9,15 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💯 **I know python and lua/luau**
+- 💯 **私はPythonとlua / luauを知っています**
 
-- 💬 **im a linux addict, hence why i like to customize my DE's**
+- 💬 **私はLinux中毒者なので、DEをカスタマイズするのが好きです**
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/25SRIrKFyRQAAAAC/tokyo-japan.gif">
 
-- ✌️ **im very much into japaneese stuff**
+- ✌️ **私は日本のものがとても好きです**
 
-- 📫 Reach me on discord **tsukeru__** 
+- 👌 **眠れないのは、IDが自分自身を説明するものです**
+  
+- 👍 **先延ばしにすることが私の得意な唯一のことです**
+
+- **📫 Discordで連絡してください**tsukeru__** 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullshaderion&show_icons=true&locale=en&layout=compact" alt="nullshaderion" /></p>
 
