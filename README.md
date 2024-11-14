@@ -9,9 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 💯 **I know python and lua/luau**
-
 - 💬 **im a linux addict**
-
+- ✌️ **im very much into japaneese stuff lol**
 - 📫 Reach me on discord **tsukeru__**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
