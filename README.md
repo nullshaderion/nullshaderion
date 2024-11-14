@@ -11,7 +11,7 @@
 
 - 💯 **I know python and lua/luau**
 
-- 💬 **im a linux addict**
+- 💬 **im a linux addict, hence why i like to customize my DE's**
 
 - ✌️ **im very much into japaneese stuff lol**
 
