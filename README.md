@@ -22,11 +22,11 @@
 
 - **📫 Discordで連絡してください: tsukeru__**
 
-- **Mastered:**
--   ```Lua/luau```
--   ```Python```
-- **Learning:**
--   ```Bash/sh```
+**Mastered:**
+ -  ```Lua/luau```
+ -  ```Python```
+**Learning:**
+ -  ```Bash/sh```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullshaderion&show_icons=true&locale=en&layout=compact" alt="nullshaderion" /></p>
 
