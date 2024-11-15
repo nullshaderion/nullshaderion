@@ -25,10 +25,10 @@
 ```lua
 local stats = {
 
-OS = "Windows and fedora linux",
-Languages = "Python,Lua,Shell/Bash",
-Editor = "Nano, vim, IDE: VSCODE,PYCHARM",
-Experience = (360 / 360 + (0.5))
+["OS"] = "Windows and fedora linux",
+["Languages"] = "Python,Lua,Shell/Bash",
+["Editor"] = "Nano, vim, IDE: VSCODE,PYCHARM",
+["Experience"] = (360 / 360 + (0.5))
 
 }
 
