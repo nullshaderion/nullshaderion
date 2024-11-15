@@ -23,10 +23,15 @@
 - **📫 Discordで連絡してください: tsukeru__**
 
 ```lua
-OS : Windows and fedora linux
-Languages: Python,Lua,Shell/Bash
-Editor : Nano, vim, IDE: VSCODE,PYCHARM
-Experience : (360 / 360 + (0.5))
+local stats = {
+
+OS = "Windows and fedora linux",
+Languages = "Python,Lua,Shell/Bash",
+Editor = "Nano, vim, IDE: VSCODE,PYCHARM",
+Experience = (360 / 360 + (0.5))
+
+}
+
 ```
 
 
