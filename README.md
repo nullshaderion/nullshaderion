@@ -30,11 +30,9 @@ local stats = {
 ["Editor"] = "Nano, vim, IDE: VSCODE,PYCHARM",
 ["Experience"] = (360 / 360 + (0.5))
 
-print(stats)
-
-
 }
 
+print(stats)
 ```
 
 
