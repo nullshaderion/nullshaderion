@@ -29,9 +29,9 @@
 **Learning:**
  - ```Bash/sh```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukeruu&show_icons=true&locale=en&layout=compact" alt="nullshaderion" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukeruu&show_icons=true&locale=en&layout=compact" alt="Tsukeruu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nullshaderion&show_icons=true&locale=en" alt="nullshaderion" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsukeruu&show_icons=true&locale=en" alt="Tsukeruu" /></p>
 
 <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/48/1e/8d481ee1eff63f9e2516b06588863722.gif">
 
